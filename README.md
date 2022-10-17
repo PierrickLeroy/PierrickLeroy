@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently working on network science projects for fun and recommender systems for work (which is also fun!)
+For now I am exploring basic notions like rankings on graphs, graph layout and I plan to investigate distances between graphs in the future 😄
+
 <!--
 **PierrickLeroy/PierrickLeroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
