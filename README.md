@@ -4,8 +4,8 @@ I'm currently working on graph machine learning for fun and recommender systems 
 
 ##### 🌱 Looking for PhD opportunities 🌱
 
-**Major interests** : GNN & geometric deep learning, graph theory, topology, geometry \
-**Other interests** : distance, density, recommender systems, game theory, evaluation metrics, information theory, manifold learning, metric learning, optimal transport, nlp
+**Major interests** : graphs & geometric deep learning \
+**Other interests** : reinforcement learning, NLP, quantum computing
 \
 \
 
