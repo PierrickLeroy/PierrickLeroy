@@ -1,13 +1,16 @@
 ### Hi there 👋
 
-I'm currently working on graph machine learning for fun and recommender systems for work (which is also fun!)
+I'm currently working on using geometry and topology for AI as a PhD student.
 
-##### 🌱 Looking for PhD opportunities 🌱
+##### 🌱 PhD and beyond 🌱
 
-**Major interests** : graphs & geometric deep learning \
-**Other interests** : reinforcement learning, NLP, quantum computing
-\
-\
+**Major interests** : topologial data analysis, algebraic toplogy, deep learning, geometric deep learning \
+**Other interests** : NLP, reinforcement learning, graphs\
+
+##### 🚧 Personal website 🚧
+
+In construction
+
 
 📫 Reach me on : pierrick.lry@gmail.com
 
