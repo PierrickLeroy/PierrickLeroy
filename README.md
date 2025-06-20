@@ -4,8 +4,8 @@ I'm currently working on using geometry and topology for AI as a PhD student.
 
 ##### 🌱 PhD and beyond 🌱
 
-**Major interests** : topologial data analysis, algebraic toplogy, deep learning, geometric deep learning \
-**Other interests** : NLP, reinforcement learning, graphs\
+**Major interests** : deep learning, geometric deep learning, embeddings, parameter space \
+**Other interests** : NLP \
 
 ##### 🚧 Personal website 🚧
 
